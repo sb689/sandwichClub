@@ -1,8 +1,6 @@
-This project was developed as part of an online course. A started code was provided to complete the application.
 
 ## Project Overview
-In this project, a complete app **Sandwich Club** will be developed where user can select a sandwitch to
-show the details.
+An android application that displays list of sandwichs. User can select any sandwitch and view the detail information like origin, ingredients, familair names, description.
 
 ## Why this Project
 Building a layout and populating its fields from data received as JSON
@@ -16,7 +14,7 @@ help to better understand how it is processed.
 - Design an activity layout
 - Populate all fields in the layout accordingly
 
-## How Do I Complete this Project?
+### How to Complete this Project?
 - Download the starter code.
 - Design the layout for the detail activity so the different elements display in a sensible way. 
 - Implement the JSON parsing in JsonUtils so it produces a Sandwich Object that can be used to populate the UI. 
