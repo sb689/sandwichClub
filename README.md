@@ -1,5 +1,5 @@
 ## Project Overview
-An android application that displays a list of the sandwich. Users can select any sandwich and view the detailed information like origin, ingredients, familiar names, description.
+An android application that displays a list of the sandwich. Users can select any sandwich and view the detailed information like origin, ingredients, familiar names, description. This project was a part of Udacity Android nanodegree course.
 
 ## Why this Project
 Building a layout and populating its fields from data received as JSON
