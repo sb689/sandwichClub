@@ -1,3 +1,16 @@
+## Application Overview
+
+<table>
+  <tr>
+    <td>Main Screen</td>
+     <td>Detail Screen</td>
+  </tr>
+  <tr>
+    <td><img src="/screenshots/Screenshot_1593555706.png" width=270 height=480></td>
+    <td><img src="/screenshots/Screenshot_1593555743.png" width=270 height=480></td>
+  </tr>
+</table>
+
 ## Project Overview
 An android application that displays a list of the sandwich. Users can select any sandwich and view the detailed information like origin, ingredients, familiar names, description.
 
